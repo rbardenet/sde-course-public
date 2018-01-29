@@ -1,8 +1,8 @@
 ## Course material
 The basics are based on this freely available [book](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) by Hastie, Tibshirani, and Friedman. I also recommend [Murphy's recent book](https://mitpress.mit.edu/books/machine-learning-0).
 
-For practical illustrations, I rely a lot on @jakevdp's [https://github.com/jakevdp/sklearn_scipy2013
-](material), you can also use it as an scikit-learn tutorial.
+For practical illustrations, I rely a lot on @jakevdp's [scikit-learn tutorial](https://github.com/jakevdp/sklearn_scipy2013
+).
 
 ## TNE instructions
 Download the `TNE` directory, cd to `TNE/Code`, and run
